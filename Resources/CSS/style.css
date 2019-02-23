@@ -52,7 +52,9 @@ html, body {
 .invitation-Image img{
 	width: 50%;
 	height: 50%;
+	border-radius: 5%;
 	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 /* Footer Section */

@@ -45,13 +45,14 @@ html, body {
 	font-size: 53px;
 	color: #FF0000;
 	font-family: 'Felipa', cursive, "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
 /* Invitation Image Section */
 .invitation-Image img{
-	width: 50%;
-	height: 50%;
+	width: 40%;
+	height: auto;
 	border-radius: 5%;
 	padding-top: 10px;
 	padding-bottom: 10px;

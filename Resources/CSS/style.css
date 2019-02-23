@@ -47,8 +47,8 @@ html, body {
 	font-family: 'Felipa', cursive, "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	padding-top: 15px;
 }
-/*Horizontal Line */
-hr {
+/*Horizontal Lines */
+.hr1 {
 	width: 78%;
 	margin-left: auto;
 	margin-right: auto;
@@ -57,12 +57,24 @@ hr {
 	opcaity: 0.5;
 }
 
+.hr2 {
+	width: 68%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1px;
+	background-color: #000000;
+	opcaity: 0.5;
+}
+
+/* Second Greeting Section */
+.secont-greeting {
+	font-size: 1.2em;
+}
 /* Invitation Image Section */
 .invitation-Image img{
 	width: 40%;
 	height: auto;
 	border-radius: 5%;
-	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
